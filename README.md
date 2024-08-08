@@ -47,8 +47,8 @@
 - 개인정보 변경
 ![개인정보 변경](https://github.com/user-attachments/assets/b4442656-3fe9-4e52-aa93-7ab2ded429ab)
 
-- 비밀번호 수정
-![비밀번호 수정](https://github.com/user-attachments/assets/d7568e97-70ef-48d6-9468-eddbf9e66c92)
+- 비밀번호 변경
+![비밀번호 변경](https://github.com/user-attachments/assets/d837f0ba-21c3-41e9-b0a1-7cc0ad922779)
 
 - 상품 정보
 ![상품정보](https://github.com/user-attachments/assets/d0a485db-a34d-4ad1-a0a5-3fb108485a73)
