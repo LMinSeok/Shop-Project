@@ -19,11 +19,19 @@
 
 ## 기술 스택
 - Spring Boot
-- Intellij
+- Intellij IDEA
 - MySQL
 - BootStrap
 - HTML
 
 ## 기능
+- ERD
+- 메인화면
+- 회원가입 및 로그인
+- 개인 정보 변경
+- 상품 정보
+- 상품 주문 및 장바구니
+- 결제
+
 
 ## 개선사항
