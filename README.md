@@ -26,7 +26,11 @@
 
 ## 기능
 - ERD
+![부트ERD](https://github.com/user-attachments/assets/1fb3e15c-86bc-45c2-945b-2598540927b2)
+
 - 메인화면
+![메인화면](https://github.com/user-attachments/assets/f86d0ff3-c8b8-400c-b409-78a0308f2306)
+
 - 회원가입 및 로그인
 - 개인 정보 변경
 - 상품 정보
