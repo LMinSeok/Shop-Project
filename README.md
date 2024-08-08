@@ -1,5 +1,6 @@
 # 👔스프링 부트 쇼핑몰 프로젝트
 
+
 ### 📌목차
 - 프로젝트 소개
 - 개요
@@ -24,29 +25,38 @@
 - HTML
 
 ### 💡기능
-- ERD
-![부트ERD](https://github.com/user-attachments/assets/1fb3e15c-86bc-45c2-945b-2598540927b2)
-
 - 메인화면
 ![메인화면](https://github.com/user-attachments/assets/f86d0ff3-c8b8-400c-b409-78a0308f2306)
 
-- 회원가입 및 로그인
+- ERD
+![부트ERD](https://github.com/user-attachments/assets/1fb3e15c-86bc-45c2-945b-2598540927b2)
+
+- 회원가입
 ![회원가입1](https://github.com/user-attachments/assets/456e4fdd-c3c2-4a42-80f7-b7aff3298d53)
 ![회원가입2](https://github.com/user-attachments/assets/5c64cc39-fe99-4172-9c35-7d1dc80d23e0)
 
+- 로그인
 ![로그인](https://github.com/user-attachments/assets/4e1e555f-b6a0-44da-8695-4fe7d62dadc5)
+
+- 카카오 로그인
 ![카카오 로그인](https://github.com/user-attachments/assets/49e4828f-9e39-4253-9732-b27315bb2d0a)
 
-- 개인 정보 변경
+- 마이페이지
 ![개인정보](https://github.com/user-attachments/assets/dabc3aaf-8760-413b-889a-282c204ee791)
+
+- 개인정보 변경
 ![개인정보 변경](https://github.com/user-attachments/assets/b4442656-3fe9-4e52-aa93-7ab2ded429ab)
+
+- 비밀번호 수정
 ![비밀번호 수정](https://github.com/user-attachments/assets/d7568e97-70ef-48d6-9468-eddbf9e66c92)
 
 - 상품 정보
 ![상품정보](https://github.com/user-attachments/assets/d0a485db-a34d-4ad1-a0a5-3fb108485a73)
 
-- 상품 주문 및 장바구니
+- 상품 주문
 ![상품주문 및 장바구니](https://github.com/user-attachments/assets/eb4a1f65-5352-47e3-bd64-53ba8eb55e15)
+
+- 장바구니
 ![장바구니](https://github.com/user-attachments/assets/4de4166d-c85e-416c-a9fd-36774f26f0a0)
 
 - 결제
