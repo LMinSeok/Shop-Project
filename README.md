@@ -45,7 +45,7 @@
 - 장바구니 상품주문 및 결제
 - API 결제
 
-### 🌈기능구현
+## 🌈기능구현
 - 메인화면
 ![메인화면](https://github.com/user-attachments/assets/f86d0ff3-c8b8-400c-b409-78a0308f2306)
 
@@ -74,6 +74,9 @@
 - 상품 정보
 ![상품정보](https://github.com/user-attachments/assets/d0a485db-a34d-4ad1-a0a5-3fb108485a73)
 
+- 관리자 상품등록
+![관리자 상품 등록](https://github.com/user-attachments/assets/894defb2-85b3-47ec-bf62-3a074d64a8a7)
+
 - 상품 주문
 ![상품주문 및 장바구니](https://github.com/user-attachments/assets/eb4a1f65-5352-47e3-bd64-53ba8eb55e15)
 
@@ -84,4 +87,4 @@
 ![주문 및 결제](https://github.com/user-attachments/assets/c902b34e-6034-406e-b8db-08cd33f81195)
 
 
-### 개선사항
+## 개선사항
