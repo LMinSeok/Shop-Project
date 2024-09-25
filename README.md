@@ -20,8 +20,10 @@
 
 ## 🛠️기술스택
 - Spring Boot
+- Java
 - Intellij IDEA
 - MySQL
+- Jsp
 - BootStrap
 - HTML
 
@@ -85,6 +87,3 @@
 
 - 결제
 ![주문 및 결제](https://github.com/user-attachments/assets/c902b34e-6034-406e-b8db-08cd33f81195)
-
-
-## 개선사항
